@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+# About Me
+
+Científico de datos (Data Scientist) con experiencia en Análisis, Ingeniería y Ciencia de Datos. Experiencia en análisis exploratorio, extracción, transformación, modelado de datos; web scaping, minería y arquitectura de datos en conjuntos grandes y complejos destinado al cumplimiento de MVPs y entregables por objetivos. Competente en Python, Pandas, Numpy, MySQL, Power BI, Big Data, Machine Learning, Streamlit, Snowflake y Notion. Licenciado en Biología con más de 15 años de experiencia en docencia, investigación y gestión ambiental.
+
+# Lenguajes de Programación
+...
+# Librerías
+...
+# Ingeniería en Datos
+...
+# Big Data
+...
+# Bi Analyst
+...
+# IDE & Control de Versión
+...
+# Tecnologías en la Nube
+...
+# Metodologías Ágiles
+...
+
 <!--
 **dunietmg/dunietmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
