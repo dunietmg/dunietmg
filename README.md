@@ -3,7 +3,8 @@
 Científico de datos (Data Scientist) con experiencia en Análisis, Ingeniería y Ciencia de Datos. Experiencia en análisis exploratorio, extracción, transformación, modelado de datos; web scaping, minería y arquitectura de datos en conjuntos grandes y complejos destinado al cumplimiento de MVPs y entregables por objetivos. Competente en Python, Pandas, Numpy, MySQL, Power BI, Big Data, Machine Learning, Streamlit, Snowflake y Notion. Licenciado en Biología con más de 15 años de experiencia en docencia, investigación y gestión ambiental.
 
 Actualmente, lidero como Presidente y Fundador la organización sin fines de lucro Biomas, dedicada a proyectos ambientales, conservación de la biodiversidad y uso sostenible de los recursos naturales en Argentina. Con un enfoque proactivo y una mentalidad de resolución de problemas, he demostrado habilidades blandas como el liderazgo, la comunicación efectiva y la capacidad para trabajar en equipo. 
-Nivel de Inglés: B1 – Intermedio.
+
+#### Nivel de Inglés: B1 – Intermedio.
 
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-flat-square&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-flat-square&logo=html5&logoColor=white)
