@@ -26,6 +26,25 @@ Científico de datos (Data Scientist) con experiencia en Análisis, Ingeniería 
 ### Metodologías Ágiles
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) ![Diagrama de Gantt](https://img.shields.io/badge/Diagrama_de_Gantt-4285F4?style=for-the-badge&logo=ganttproject&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-007ee5?style=for-the-badge&logo=dropbox&logoColor=white)
 
+## CONTACTO:
+
+<div style="text-align: center;">
+    <div style="font-size: 18px; margin-bottom: 10px;">Duniet Marrero García</div>
+    <div>
+        <a href="https://www.linkedin.com/in/duniet-marrero-garcia-7a246aa1" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 110px; margin-bottom: 5px;">
+        </a>
+    </div>
+    <div>
+        <a href="mailto:dunietmg@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 110px; margin-top: 5px;">
+        </a>
+    </div>
+</div>
+
+
+
+
 
 
 <!--
